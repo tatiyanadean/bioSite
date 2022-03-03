@@ -150,6 +150,20 @@ footer {
     color: white;
 }
 
+.button {
+    background-color: #1c87c9;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    padding: 0px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
 @media only screen and (max-width:550px){
     .container{
         grid-template-columns: 1fr;
